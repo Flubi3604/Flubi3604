@@ -1,7 +1,4 @@
-<p align="center">
-  <a href="https://github.com/Flubi3604">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Igor Kondraciuk" /></a>
-</p>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=300&color=E058F7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Beginner+developer" alt="Typing SVG" /></a>
