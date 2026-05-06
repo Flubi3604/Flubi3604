@@ -14,16 +14,13 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Flubi3604?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/Flubi3604?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Flubi3604?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/Flubi3604-profile-views"/></a>
-  ![](https://komarev.com/ghpvc/?username=Flubi3604&style=flat-square)
 </p>
 
 <br/>
 
 <!-- GitHub image -->
 <p align="center">
-    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/>
+    <img src="https://repository-images.githubusercontent.com/403945247/0f2666ec-8077-4249-baa4-8be9ad54909f" alt="evangelion"/>
 </p>
 
 
