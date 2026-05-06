@@ -20,7 +20,7 @@
 
 <!-- GitHub image -->
 <p align="center">
-    <img src="https://repository-images.githubusercontent.com/403945247/0f2666ec-8077-4249-baa4-8be9ad54909f" alt="evangelion"/>
+    <img src="https://i.redd.it/0ccd85u4qxe71.jpg" alt="evangelion"/>
 </p>
 
 
